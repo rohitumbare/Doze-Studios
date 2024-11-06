@@ -10,16 +10,20 @@ Doze Studios has been reimagined with a dynamic, cutting-edge visual experience.
 <br>
 
 <b>💡 Key Features : </b><br>
-✅ Frame Sequence Animation: 
+✅ Frame Sequence Animation:  <br>
 I’ve integrated an interactive animation using the Canvas API, where a series of images seamlessly transition as users scroll, bringing the content to life in a unique and engaging way.<br>
 
-✅ GSAP Integration: GSAP (GreenSock Animation Platform) is utilized to ensure smooth and sophisticated content transitions. This enhances user experience by giving the website a fluid, polished feel as users interact with the page.<br>
+✅ GSAP Integration:  <br>
+GSAP (GreenSock Animation Platform) is utilized to ensure smooth and sophisticated content transitions. This enhances user experience by giving the website a fluid, polished feel as users interact with the page.<br>
 
-✅ Preloader: A custom-built preloader ensures that all media assets are fully loaded before the content is visible, providing a smooth and uninterrupted browsing experience.<br>
+✅ Preloader: <br>
+A custom-built preloader ensures that all media assets are fully loaded before the content is visible, providing a smooth and uninterrupted browsing experience.<br>
 
-✅ Responsive Design: The website is fully optimized for all screen sizes, ensuring that both the animation and content adjust perfectly to desktops, tablets, and mobile devices.<br>
+✅ Responsive Design:  <br>
+The website is fully optimized for all screen sizes, ensuring that both the animation and content adjust perfectly to desktops, tablets, and mobile devices.<br>
 
-✅ Smooth Scrolling with Lenis: Integrated Lenis for an ultra-smooth scrolling experience, which complements the visual transitions and adds a layer of elegance to the navigation.<br>
+✅ Smooth Scrolling with Lenis:  <br>
+Integrated Lenis for an ultra-smooth scrolling experience, which complements the visual transitions and adds a layer of elegance to the navigation.<br>
 
 <b>🛠 Technologies Used : </b><br>
 
